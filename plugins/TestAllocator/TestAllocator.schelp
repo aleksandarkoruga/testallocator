@@ -1,0 +1,26 @@
+class:: TestAllocator
+summary:: Test replace std allocator with RTAlloc
+related:: TODO
+categories:: UGens>TODO
+
+description::
+
+Test replace std allocator with RTAlloc
+
+
+classmethods::
+
+method::ar, kr
+
+argument::TODO
+
+argument::TODO
+
+
+examples::
+
+code::
+
+{ TestAllocator.ar(/* TODO */) }.play
+
+::
